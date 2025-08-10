@@ -1,2 +1,1 @@
-# ft_printf_rep
-reprogramming a custom printf
+reprogramming the original printf to practice variatic functions
